@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+    <title>AWS Infrastructure - World View</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="iFrame message passing test">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+    <img src="./images/worldmap.png" width="100%" alt="World Map" usemap="#worldmap" />
+    <map name="worldmap">
+        <area shape="rect" coords="167,343,178,348" onmouseover="writeText('US West (N. Oregon)')" href="./us-west-2.html" target="_self" title="US West (N. Oregon)">
+        <area shape="rect" coords="148,374,162,383" onmouseover="writeText('US West (N. California)')" href="./us-west-1.html" target="_self" title="US West (N. California)">
+        <area shape="rect" coords="364,376,382,389" onmouseover="writeText('US East (N. Virginia)')" href="./us-east-1.html" target="_self" title="US East (N. Virginia)">
+        <area shape="rect" coords="553,797,569,811" onmouseover="writeText('South America (Sao Paulo)')" href="./sa-east-1.html" target="_self" title="South America (Sao Paulo)">
+        <area shape="rect" coords="812,281,826,292" onmouseover="writeText('EU (Ireland)')" href="./eu-west-1.html" target="_self" title="EU (Ireland)">
+        <area shape="rect" coords="908,294,920,306" onmouseover="writeText('EU (Frankfurt)')" href="./eu-central-1.html" target="_self" title="EU (Frankfurt)">
+        <area shape="rect" coords="1494,627,1509,642" onmouseover="writeText('Asia Pacific (Singapore)')" href="./ap-southeast-1.html" target="_self" title="Asia Pacific (Singapore)">
+        <area shape="rect" coords="1656,397,1676,414" onmouseover="writeText('Asia Pacific (Tokyo)')" href="./ap-northeast-1.html" target="_self" title="Asia Pacific (Tokyo)">
+        <area shape="rect" coords="1734,877,1753,892" onmouseover="writeText('Asia Pacific (Sydney)')" href="./ap-southeast-2.html" target="_self" title="Asia Pacific (Sydney)">
+    </map>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/imageMapResizer.min.js"></script>
+    <script type="text/javascript">
+$(document).ready(function() {
+    $('map').imageMapResize();
+});
+    </script>
+</body>
+</html>

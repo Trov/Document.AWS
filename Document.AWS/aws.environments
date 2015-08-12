@@ -1,0 +1,68 @@
+
+ <AWSEnvironments>
+   <List>
+     <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>us-west-1.html</HTMLPage> 
+-      <Region>us-west-1</Region>
+-      <Name>US West (N. California)</Name>
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+       <HTMLPage>us-west-2.html</HTMLPage>
+       <Region>us-west-2</Region>
+-      <Name>US West (Oregon)</Name>
+-    </AWSEnvironment>
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>us-east-1.html</HTMLPage> 
+-      <Region>us-east-1</Region>
+-      <Name>US East (N. Virginia)</Name>
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>eu-west-1.html</HTMLPage> 
+-      <Region>eu-west-1</Region>
+-      <Name>EU (Ireland)</Name> 
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>eu-central-1.html</HTMLPage>
+-      <Region>eu-central-1</Region> 
+-      <Name>EU (Frankfurt)</Name> 
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>sa-east-1.html</HTMLPage> 
+-      <Region>sa-east-1</Region>
+-      <Name>South America (São Paulo)</Name>
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>ap-southeast-1.html</HTMLPage>
+-      <Region>ap-southeast-1</Region> 
+-      <Name>Asia Pacific (Singapore)</Name> 
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>ap-northeast-1.html</HTMLPage>
+-      <Region>ap-northeast-1</Region> 
+-      <Name>Asia Pacific (Tokyo)</Name> 
+-    </AWSEnvironment> 
+-    <AWSEnvironment>
+-      <AccessKeyID>EDIT_ME_FIRST</AccessKeyID>
+-      <SecretAccessKey>EDIT_ME_FIRST</SecretAccessKey>
+-      <HTMLPage>ap-southeast-2.html</HTMLPage>
+-      <Region>ap-southeast-2</Region> 
+-      <Name>Asia Pacific (Sydney)</Name>
+     </AWSEnvironment>
+   </List>
+ </AWSEnvironments>
