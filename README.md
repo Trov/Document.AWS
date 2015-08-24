@@ -1,7 +1,7 @@
 # Document.AWS
 
 # What is Document.AWS?
-- [AWS network EC2 instance documentation generator](https://trov-dev.ghost.io/documenting-jello-how-we-automated-our-infrastructure-documentation "The Cache - Trov Engineering Blog")
+- [AWS network EC2 instance documentation generator](http://trov-dev.ghost.io/documenting-jello-how-we-automated-our-infrastructure-documentation "The Cache - Trov Engineering Blog")
 - Fully configurable for all current AWS regions
 - Fully customizable CSS, JavaScript, colors and images
 
